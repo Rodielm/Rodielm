@@ -4,7 +4,7 @@ I'm Software Engineer from Dominican Republic 🇩🇴
 
 ### About Me
 
-"I've acquired valuable skills for the professional landscape, utilizing diverse technological tools in Backend, Frontend, and various development architecture practices. I'm motivated by the exploration of new technologies, teamwork, sharing insights on software development, and advocating for best practices in software management. I possess adaptability and a keen desire to deepen my knowledge across different domains within the software industry.
+I've acquired valuable skills for the professional landscape, utilizing diverse technological tools in Backend, Frontend, and various development architecture practices. I'm motivated by the exploration of new technologies, teamwork, sharing insights on software development, and advocating for best practices in software management. I possess adaptability and a keen desire to deepen my knowledge across different domains within the software industry.
 
 ### Skills
 ![Static Badge](https://img.shields.io/badge/js-black?style=flat&logo=javascript)
